@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.viewpager.widget.ViewPager;
 
 import android.os.Bundle;
+import android.widget.Toast;
 
 import com.google.android.material.tabs.TabLayout;
 import com.miczon.task4_fragments.fragments.FirstFragment;
@@ -22,6 +23,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
+        Toast.makeText(this, "Update", Toast.LENGTH_SHORT).show();
         getViews();
 
         // setting/Initializing up the adapter
