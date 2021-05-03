@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="12sp"
+    tools:context=".fragments.FirstFragment">
+
+    <TextView
+        android:id="@+id/tv_sunday"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10sp"
+        android:gravity="center"
+        android:padding="12sp"
+        android:text="sunday"
+        android:textColor="#100F0F"
+        android:textSize="22sp" />
+
+    <TextView
+        android:id="@+id/tv_monday"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10sp"
+        android:gravity="center"
+        android:padding="12sp"
+        android:text="monday"
+        android:textColor="#100F0F"
+        android:textSize="22sp" />
+
+    <TextView
+        android:id="@+id/tv_tuesday"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10sp"
+        android:gravity="center"
+        android:padding="12sp"
+        android:text="tuesday"
+        android:textColor="#100F0F"
+        android:textSize="22sp" />
+
+    <TextView
+        android:id="@+id/tv_wednesday"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10sp"
+        android:gravity="center"
+        android:padding="12sp"
+        android:text="wednesday"
+        android:textColor="#100F0F"
+        android:textSize="22sp" />
+
+    <TextView
+        android:id="@+id/tv_thurday"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10sp"
+        android:gravity="center"
+        android:padding="12sp"
+        android:text="thurday"
+        android:textColor="#100F0F"
+        android:textSize="22sp" />
+
+    <TextView
+        android:id="@+id/tv_friday"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10sp"
+        android:gravity="center"
+        android:padding="12sp"
+        android:text="friday"
+        android:textColor="#100F0F"
+        android:textSize="22sp" />
+
+    <TextView
+        android:id="@+id/tv_saturday"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10sp"
+        android:gravity="center"
+        android:padding="12sp"
+        android:text="saturday"
+        android:textColor="#100F0F"
+        android:textSize="22sp" />
+</LinearLayout>

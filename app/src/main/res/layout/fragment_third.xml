@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/third"
+    android:background="#ffffff"
+    android:clickable="true"
+    tools:context=".fragments.ThirdFragment">
+
+        <TextView
+            android:id="@+id/tv1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10sp"
+            android:gravity="center"
+            android:padding="2dp"
+            android:text="Muḥarram"
+            android:textColor="#100F0F"
+            android:textSize="22sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10sp"
+            android:gravity="center"
+            android:padding="2dp"
+            android:text="Ṣafar"
+            android:textColor="#100F0F"
+            android:textSize="22sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10sp"
+            android:gravity="center"
+            android:padding="2dp"
+            android:text="Rabī‘ al-awwal"
+            android:textColor="#100F0F"
+            android:textSize="22sp" />
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10sp"
+            android:gravity="center"
+            android:padding="2dp"
+            android:text="Rabī‘ ath-thānī"
+            android:textColor="#100F0F"
+            android:textSize="22sp" />
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10sp"
+            android:gravity="center"
+            android:padding="2dp"
+            android:text="Jumādá al-ūlá"
+            android:textColor="#100F0F"
+            android:textSize="22sp" />
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10sp"
+            android:gravity="center"
+            android:padding="2dp"
+            android:text="Jumādá al-ākhirah"
+            android:textColor="#100F0F"
+            android:textSize="22sp" />
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10sp"
+            android:gravity="center"
+            android:padding="2dp"
+            android:text="Rajab"
+            android:textColor="#100F0F"
+            android:textSize="22sp" />
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10sp"
+            android:gravity="center"
+            android:padding="2dp"
+            android:text="Sha‘bān"
+            android:textColor="#100F0F"
+            android:textSize="22sp" />
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10sp"
+            android:gravity="center"
+            android:padding="2dp"
+            android:text="Ramaḍān"
+            android:textColor="#100F0F"
+            android:textSize="22sp" />
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10sp"
+            android:gravity="center"
+            android:padding="2dp"
+            android:text="Shawwāl"
+            android:textColor="#100F0F"
+            android:textSize="22sp" />
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10sp"
+            android:gravity="center"
+            android:padding="2dp"
+            android:text="Dhū al-Qa‘dah"
+            android:textColor="#100F0F"
+            android:textSize="22sp" />
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10sp"
+            android:gravity="center"
+            android:padding="2dp"
+            android:text="Dhū al-Ḥijjah"
+            android:textColor="#100F0F"
+            android:textSize="22sp" />
+
+    </LinearLayout>
+
